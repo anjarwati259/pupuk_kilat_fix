@@ -2712,7 +2712,7 @@ readers do not read off random characters that represent icons */
 .fa-microsoft:before {
   content: "\f3ca"; }
 
-.fa-minus:before {
+.fa-minus:before { 
   content: "\f068"; }
 
 .fa-minus-circle:before {

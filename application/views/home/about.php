@@ -109,6 +109,7 @@
         </div>
       </div>
     </section><!-- visi misi Section -->
+
     <!-- ligelitas -->
     <div id="portfolio" class="portfolio-area area-padding fix">
       <div class="container">
@@ -131,8 +132,8 @@
                 <div class="add-actions text-center">
                   <div class="project-dec">
                     <a class="venobox" data-gall="myGallery" href="<?php echo base_url() ?>assets/img/legalitas/legal 1.jpg">
-                      <h4>Creative Team</h4>
-                      <span>Web design</span>
+                      <h4>Legalitas</h4>
+                      <span>Surat Ijin Berusaha (NIB) </span>
                     </a>
                   </div>
                 </div>
@@ -147,8 +148,8 @@
                 <div class="add-actions text-center">
                   <div class="project-dec">
                     <a class="venobox" data-gall="myGallery" href="<?php echo base_url() ?>assets/img/legalitas/legal 2.jpg">
-                      <h4>Creative Team</h4>
-                      <span>Web design</span>
+                      <h4>Legalitas</h4>
+                      <span>Pengesahan Pendirian Badan Hukum Peseroan Terbatas</span>
                     </a>
                   </div>
                 </div>
@@ -164,8 +165,8 @@
                 <div class="add-actions text-center">
                   <div class="project-dec">
                     <a class="venobox" data-gall="myGallery" href="<?php echo base_url() ?>assets/img/legalitas/legal 3.jpg">
-                      <h4>Creative Team</h4>
-                      <span>Web design</span>
+                      <h4>Legalitas</h4>
+                      <span>Surat Ijin Usaha Perdagangan (SIUP)</span>
                     </a>
                   </div>
                 </div>
@@ -181,8 +182,8 @@
                 <div class="add-actions text-center">
                   <div class="project-dec">
                     <a class="venobox" data-gall="myGallery" href="<?php echo base_url() ?>assets/img/legalitas/01-hasil-uji.jpg">
-                      <h4>Acara Bersama Walikota Kediri</h4>
-                      <!-- <span>Acara Bersama Walikota Kediri</span> -->
+                      <h4>Uji Efektivitas</h4>
+                      <span>Laporan Akhir Uji Efektivitas Pupuk Kilat dari Universitas Brawijaya</span>
                     </a>
                   </div>
                 </div>
@@ -190,6 +191,7 @@
             </div>
           </div>
           <!-- single-awesome-project end -->
+
           <!-- single-awesome-project start -->
           <div class="col-md-4 col-sm-4 col-xs-12 photo">
             <div class="single-awesome-project">
@@ -198,8 +200,8 @@
                 <div class="add-actions text-center">
                   <div class="project-dec">
                     <a class="venobox" data-gall="myGallery" href="<?php echo base_url() ?>assets/img/legalitas/02-hasil-uji.jpg">
-                      <h4>Tasyakuran</h4>
-                      <!-- <span>Photosho</span> -->
+                      <h4>Uji Efektivitas</h4>
+                      <span>Hasil Pengujian dari Pusat Penelitian Bioteknologi dan Bioindustri Indonesia</span>
                     </a>
                   </div>
                 </div>
@@ -215,8 +217,8 @@
                 <div class="add-actions text-center">
                   <div class="project-dec">
                     <a class="venobox" data-gall="myGallery" href="<?php echo base_url() ?>assets/img/legalitas/03-hasil-uji.jpg">
-                      <h4>Bersama Petugas Lapang</h4>
-                      <!-- <span>Web Design</span> -->
+                      <h4>Uji Efektivitas</h4>
+                      <span>Surat Pendaftaran Produk oleh Menteri Pertanian Indonesia</span>
                     </a>
                   </div>
                 </div>
@@ -227,67 +229,6 @@
         </div>
       </div>
     </div>
-    <!-- <section id="team" class="team section-bg">
-      <div class="container">
-
-        <div class="section-title" data-aos="fade-up">
-          <h2>Legalitas <strong>Perusahaan</strong></h2>
-        </div>
-
-        <div class="row">
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up">
-              <div class="member-img">
-                <img src="<?php echo base_url()?>assets/img/legalitas/01-hasil-uji.jpg" class="img-fluid" alt="">
-              </div>
-              <div class="member-info">
-                <h4>Walter White</h4>
-                <span>Chief Executive Officer</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="100">
-              <div class="member-img">
-                <img src="<?php echo base_url()?>assets/img/legalitas/02-hasil-uji.jpg" class="img-fluid" alt="">
-              </div>
-              <div class="member-info">
-                <h4>Sarah Jhonson</h4>
-                <span>Product Manager</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="200">
-              <div class="member-img">
-                <img src="<?php echo base_url()?>assets/img/legalitas/03-hasil-uji.jpg" class="img-fluid" alt="">
-              </div>
-              <div class="member-info">
-                <h4>William Anderson</h4>
-                <span>CTO</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="300">
-              <div class="member-img">
-                <img src="<?php echo base_url()?>assets/img/team/team-4.jpg" class="img-fluid" alt="">
-              </div>
-              <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Accountant</span>
-              </div>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section> -->
     <!-- end ligelitas -->
     <!-- ======= Our Team Section ======= -->
     <section id="team" class="team section-bg">
@@ -347,8 +288,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>William Anderson</h4>
-                <span>CTO</span>
+                <h4>Ardhino Okta Noerrian</h4>
+                <span>Advertiser & Design</span>
               </div>
             </div>
           </div>
@@ -365,8 +306,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Accountant</span>
+                <h4>Tunggul</h4>
+                <span>Senior Business Consultant</span>
               </div>
             </div>
           </div>
@@ -386,8 +327,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Walter White</h4>
-                <span>Chief Executive Officer</span>
+                <h4>Melina</h4>
+                <span>Finance & Public Relation</span>
               </div>
             </div>
           </div>
@@ -404,8 +345,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Sarah Jhonson</h4>
-                <span>Product Manager</span>
+                <h4>Raisah Bani</h4>
+                <span>Content Creative & Business Consultant</span>
               </div>
             </div>
           </div>
@@ -422,8 +363,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>William Anderson</h4>
-                <span>CTO</span>
+                <h4>Faida</h4>
+                <span>Content Creative & Business Consultant</span>
               </div>
             </div>
           </div>
@@ -440,8 +381,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Accountant</span>
+                <h4>Retno Anjarwati</h4>
+                <span>IT & Security</span>
               </div>
             </div>
           </div>

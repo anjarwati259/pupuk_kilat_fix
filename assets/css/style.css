@@ -2549,7 +2549,7 @@ iframe {
   position: relative;
 }
 .faq .accordion-header::before {
-  content: "\f067";
+  /*content: "\f067";*/
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
   position: absolute;
@@ -2565,7 +2565,7 @@ iframe {
   transition: all 0.5s ease;
 }
 .faq .accordion-header:not(.collapsed)::before {
-  content: "\f068";
+  /*content: "\f068";*/
   color: #ffffff;
 }
 .faq .accordion-header:not(.collapsed) {

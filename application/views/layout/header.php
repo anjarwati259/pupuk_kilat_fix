@@ -13,7 +13,7 @@ $nav_product  = $this->home_model->nav_product();
         <a href="https://www.facebook.com/kilatofficial" class="facebook"><i class="icofont-facebook"></i></a>
         <a href="https://www.instagram.com/ptagi.official/" class="instagram"><i class="icofont-instagram"></i></a>
         <a href="https://www.youtube.com/channel/UC55i-fOYx2epwRirCODrwEA" class="instagram"><i class="icofont-youtube"></i></a>
-        <a href="#" class="linkedin"><i class="fas fa-shopping-cart"></i></i></a>
+        <a href="#" class="linkedin"><i class="icofont-shopping-cart"></i></a>
       </div> 
     </div>
   </section>
@@ -46,7 +46,7 @@ $nav_product  = $this->home_model->nav_product();
               <li><a href="#">Distributor</a></li>
             </ul>
           </li>
-          <li><a href="testimonials.html">Testimoni</a></li>
+          <li><a href="">Testimoni</a></li>
           <li><a href="<?php echo base_url('home/publikasi') ?>">Publikasi</a></li>
           <li><a href="<?php echo base_url('home/kontak') ?>">Kontak</a></li>
         </ul>

@@ -32,26 +32,9 @@
             <div class="well-middle">
               <div class="single-well">
                 <p>
-                  Dengan menggunakan produk pupuk kilat dapat mengurangi penggunaan pupuk kimia (anorganik) dan pastinya praktis. Karena dalam 1 produk dapat memberikan berbagai manfaat seperti :
+                  Mengandung Hormon tumbuhan dengan extrak formula merupakan rangkaian proses regulasi genetik dan berfungsi sebagai prekursor rangsangan guna terbentuknya hormon tumbuhan, sehingga gen yang semula tidak aktif mulai ekspresi lalu menjadi aktif dan kembali kepada genitika aslinya, produk berbentuk pekatan suspensi, dengan bau khas aroma susu, berwarna putih susu kelabu, tidak mengandung amoniak, tidak bau menyengat, tidak mengandung alkohol, tidak mengandung zat beracun di formulasikan dari bahan alami yang dibutuhkan untuk semua jenis tanaman.
                 </p>
-                <ul>
-                  <li>
-                    <i class="fa fa-check"></i> bisa digunakan oleh segala jenis tanaman
-                  </li>
-                  <li>
-                    <i class="fa fa-check"></i> Dapat mencegah penyakit bawaan dari benih
-                  </li>
-                  <li>
-                    <i class="fa fa-check"></i> Mempercepat proses pertumbuhan
-                  </li>
-                  <li>
-                    <i class="fa fa-check"></i> Renovaion of Commercial Office
-                  </li>
-                  <li>
-                    <i class="fa fa-check"></i> Mengoptimalkan Produksi Tanaman
-                  </li>
-                </ul>
-                <div class="text-center"><a href="" class="btn-get-started">Selengkapnya</a></div>
+                <div class="text-center"><a href="<?php echo base_url('home/product/1') ?>" class="btn-get-started">Selengkapnya</a></div>
               </div>
             </div>
           </div>
@@ -72,26 +55,12 @@
             <div class="well-middle">
               <div class="single-well">
                 <p>
-                  Dengan menggunakan produk pupuk kilat dapat mengurangi penggunaan pupuk kimia (anorganik) dan pastinya praktis. Karena dalam 1 produk dapat memberikan berbagai manfaat seperti :
+                  Nutrsisi ikan berbahan organik alami diantaranya tanaman - tanaman, mineral yang dikelola sehingga terbentuk unsur hormon atau vitamin ikan, mikroba-mikroba pengurai bahan - bahan padat dan mengikat logam - logam berat dan sebagai pembantu tumbuhnya plankon dalam media budidaya ikan sehingga menjadi makanan alami.
                 </p>
-                <ul>
-                  <li>
-                    <i class="fa fa-check"></i> bisa digunakan oleh segala jenis tanaman
-                  </li>
-                  <li>
-                    <i class="fa fa-check"></i> Dapat mencegah penyakit bawaan dari benih
-                  </li>
-                  <li>
-                    <i class="fa fa-check"></i> Mempercepat proses pertumbuhan
-                  </li>
-                  <li>
-                    <i class="fa fa-check"></i> Renovaion of Commercial Office
-                  </li>
-                  <li>
-                    <i class="fa fa-check"></i> Mengoptimalkan Produksi Tanaman
-                  </li>
-                </ul>
-                <div class="text-center"><a href="" class="btn-get-started">Selengkapnya</a></div>
+                <p>
+                  Meningkatkan kualitas daging ikan dan udang serta meningkatkan bobot ikan dan udang. Mengandung bahan kalium, vitamin A, D, E, K dan protein, lemak, karbohidrat serta natrium.
+                </p>
+                <div class="text-center"><a href="<?php echo base_url('home/product/3') ?>" class="btn-get-started">Selengkapnya</a></div>
               </div>
             </div>
           </div>
@@ -133,26 +102,10 @@
             <div class="well-middle">
               <div class="single-well">
                 <p>
-                  Dengan menggunakan produk pupuk kilat dapat mengurangi penggunaan pupuk kimia (anorganik) dan pastinya praktis. Karena dalam 1 produk dapat memberikan berbagai manfaat seperti :
+                  Nutrisi Ternak mengandung berbagai macam bahan - bahan pendukung pertumbuhan ternak seperti asam amino, vitamin, mineral, mikroba yang bermanfaat bagi ternak, enzim dan hormon - hormon penambah nafsu makan ternak. nutrisi ternak membantu pemakaian pakan menjadi lebih hemat sehingga biaya pemeliharaan menjadi lebih ringan tanpa mengurangi kualitas hasil ternak.
                 </p>
-                <ul>
-                  <li>
-                    <i class="fa fa-check"></i> bisa digunakan oleh segala jenis tanaman
-                  </li>
-                  <li>
-                    <i class="fa fa-check"></i> Dapat mencegah penyakit bawaan dari benih
-                  </li>
-                  <li>
-                    <i class="fa fa-check"></i> Mempercepat proses pertumbuhan
-                  </li>
-                  <li>
-                    <i class="fa fa-check"></i> Renovaion of Commercial Office
-                  </li>
-                  <li>
-                    <i class="fa fa-check"></i> Mengoptimalkan Produksi Tanaman
-                  </li>
-                </ul>
-                <div class="text-center"><a href="" class="btn-get-started">Selengkapnya</a></div>
+                <p>Komposisi nutrisi ternak kalium, vitamin A,D,E,K dan protein, lemak, karbohidrat serta natrium. Mengurangi biaya pemeliharaan ternak</p>
+                <div class="text-center"><a href="<?php echo base_url('home/produk/2') ?>" class="btn-get-started">Selengkapnya</a></div>
               </div>
             </div>
           </div>
@@ -162,84 +115,117 @@
     </section><!-- produk Section -->
 
     <!-- Faq Section -->
-<section class="faq section-padding">
-  <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-lg-8">
-        <div class="section-title">
-          <h2>Pertanyaan <span>Umum</span></h2>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-lg-6 col-md-5 d-flex align-items-center">
-        <div id="accordion">
-          <div class="accordion-item">
-            <div class="accordion-header" data-toggle="collapse" data-target="#collapse-01" data-parent="#accordion">
-              <h3>Apakah pupuk kilat digunakan untuk tanaman tertentu saja?</h3>
-            </div>
-            <div class="collapse" id="collapse-01">
-              <div class="accordion-body">
-                <p>Pupuk Kilat dapat digunakan untuk segala jenis tanaman.
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="accordion-item">
-            <div class="accordion-header collapsed" data-toggle="collapse" data-target="#collapse-02"
-              data-parent="#accordion">
-              <h3>Bagaimana cara pemakaian Pupuk Kilat ke tanaman?</h3>
-            </div>
-            <div class="collapse" id="collapse-02">
-              <div class="accordion-body">
-                <p>Aplikasi Pupuk Kilat di tanaman dengan sistem semprot dan kocor, untuk beberapa tanaman
-                  batang keras aplikasi khusus yaitu dengan bor batang atau rencek.</p>
-              </div>
-            </div>
-          </div>
-          <div class="accordion-item">
-            <div class="accordion-header collapsed" data-toggle="collapse" data-target="#collapse-03"
-              data-parent="#accordion">
-              <h3>Berapa peningkatan hasil panen setelah menggunakan Pupuk Kilat?</h3>
-            </div>
-            <div class="collapse" id="collapse-03">
-              <div class="accordion-body">
-                <p>Peningkatan hasil panen bervariasi mulai dari 30% - 100%,
-                  bahkan bisa lebih tergantung perawatan.</p>
-              </div>
+    <section class="faq section-padding">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-8">
+            <div class="section-title">
+              <h2>Pertanyaan <span>Umum</span></h2>
             </div>
           </div>
         </div>
-      </div>
-      <div class="col-lg-6 col-md-7">
-        <div id="accordion">
-          <div class="accordion-item">
-            <div class="accordion-header" data-toggle="collapse" data-target="#collapse-11" data-parent="#accordion">
-              <h3>Apakah pupuk kilat bisa dicampur dengan pestisida dalam pemakaiannya?</h3>
-            </div>
-            <div class="collapse" id="collapse-11">
-              <div class="accordion-body">
-                <p>Pemakaian Pupuk Kilat dapat dicampur pestisida dalam satu tangki semprot,
-                  sehingga memudahkan petani dalam mengaplikasikan ke tanaman.</p>
+        <div class="row">
+          <div class="col-lg-6 col-md-5 d-flex align-items-center">
+            <div id="accordion">
+              <div class="accordion-item">
+                <div class="accordion-header" data-toggle="collapse" data-target="#collapse-01" data-parent="#accordion">
+                  <h3>Apakah pupuk kilat digunakan untuk tanaman tertentu saja?</h3>
+                </div>
+                <div class="collapse" id="collapse-01">
+                  <div class="accordion-body">
+                    <p>Pupuk Kilat dapat digunakan untuk segala jenis tanaman.
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <div class="accordion-header collapsed" data-toggle="collapse" data-target="#collapse-02"
+                  data-parent="#accordion">
+                  <h3>Bagaimana cara pemakaian Pupuk Kilat ke tanaman?</h3>
+                </div>
+                <div class="collapse" id="collapse-02">
+                  <div class="accordion-body">
+                    <p>Aplikasi Pupuk Kilat di tanaman dengan sistem semprot dan kocor, untuk beberapa tanaman
+                      batang keras aplikasi khusus yaitu dengan bor batang atau rencek.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <div class="accordion-header collapsed" data-toggle="collapse" data-target="#collapse-03"
+                  data-parent="#accordion">
+                  <h3>Berapa peningkatan hasil panen setelah menggunakan Pupuk Kilat?</h3>
+                </div>
+                <div class="collapse" id="collapse-03">
+                  <div class="accordion-body">
+                    <p>Peningkatan hasil panen bervariasi mulai dari 30% - 100%,
+                      bahkan bisa lebih tergantung perawatan.</p>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
-          <div class="accordion-item">
-            <div class="accordion-header collapsed" data-toggle="collapse" data-target="#collapse-12"
-              data-parent="#accordion">
-              <h3>Kapan aplikasi yang tepat untuk penyemprotan ke tanaman?</h3>
-            </div>
-            <div class="collapse" id="collapse-12">
-              <div class="accordion-body">
-                <p>Aplikasi pupuk kilat dilakukan pada pagi atau sore hari.</p>
+          <div class="col-lg-6 col-md-7">
+            <div id="accordion">
+              <div class="accordion-item">
+                <div class="accordion-header" data-toggle="collapse" data-target="#collapse-11" data-parent="#accordion">
+                  <h3>Apakah pupuk kilat bisa dicampur dengan pestisida dalam pemakaiannya?</h3>
+                </div>
+                <div class="collapse" id="collapse-11">
+                  <div class="accordion-body">
+                    <p>Pemakaian Pupuk Kilat dapat dicampur pestisida dalam satu tangki semprot,
+                      sehingga memudahkan petani dalam mengaplikasikan ke tanaman.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <div class="accordion-header collapsed" data-toggle="collapse" data-target="#collapse-12"
+                  data-parent="#accordion">
+                  <h3>Kapan aplikasi yang tepat untuk penyemprotan ke tanaman?</h3>
+                </div>
+                <div class="collapse" id="collapse-12">
+                  <div class="accordion-body">
+                    <p>Aplikasi pupuk kilat dilakukan pada pagi atau sore hari.</p>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
         </div>
       </div>
-    </div>
-  </div>
-</section>
-<!-- faq end -->
+    </section>
+    <!-- faq end -->
+
+<!-- testimoni -->
+    <section id="portfolio" class="portfolio">
+          <div class="container">
+
+            <div class="section-title" data-aos="fade-up">
+              <h2>Testimoni <strong>Produk</strong></h2>
+            </div>
+
+            <div class="row portfolio-container" data-aos="fade-up">
+
+              <div class="col-lg-3 col-md-6 portfolio-item filter-app">
+                <!-- <img src="<?php echo base_url() ?>assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt=""> -->
+                  <iframe width="500" height="250" src="https://www.youtube.com/embed/NbxS8vCwLqc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              </div>
+
+              <div class="col-lg-3 col-md-6 portfolio-item filter-app">
+                <!-- <img src="<?php echo base_url() ?>assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt=""> -->
+                  <iframe width="500" height="250" src="https://www.youtube.com/embed/0pzUEepvIUg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              </div>
+
+              <div class="col-lg-3 col-md-6 portfolio-item filter-app">
+                <iframe width="500" height="250" src="https://www.youtube.com/embed/NQN5kB0bj-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              </div>
+
+              <div class="col-lg-3 col-md-6 portfolio-item filter-card">
+                <iframe width="500" height="250" src="https://www.youtube.com/embed/AYr-O1QYdvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              </div>
+            </div>
+
+          </div>
+    </section>
+<!-- testimoni end -->
 
  </main>
