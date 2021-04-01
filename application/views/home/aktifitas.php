@@ -67,10 +67,10 @@
           <div class="col-md-4 col-sm-4 col-xs-12 photo development">
             <div class="single-awesome-project">
               <div class="awesome-img">
-                <a href="#"><img src="<?php echo base_url() ?>assets/img 2/portfolio/4.jpg" alt="" /></a>
+                <a href="#"><img src="<?php echo base_url() ?>assets/img/gambar/kegiatan 3.jpg" alt="" /></a>
                 <div class="add-actions text-center">
                   <div class="project-dec">
-                    <a class="venobox" data-gall="myGallery" href="<?php echo base_url() ?>assets/img 2/portfolio/4.jpg">
+                    <a class="venobox" data-gall="myGallery" href="<?php echo base_url() ?>assets/img/gambar/kegiatan 3.jpg">
                       <h4>Creative Team</h4>
                       <span>Web design</span>
                     </a>
@@ -84,10 +84,10 @@
           <div class="col-md-4 col-sm-4 col-xs-12 development">
             <div class="single-awesome-project">
               <div class="awesome-img">
-                <a href="#"><img src="<?php echo base_url() ?>assets/img 2/portfolio/5.jpg" alt="" /></a>
+                <a href="#"><img src="<?php echo base_url() ?>assets/img/gambar/kegiatan 4.jpg" alt="" /></a>
                 <div class="add-actions text-center text-center">
                   <div class="project-dec">
-                    <a class="venobox" data-gall="myGallery" href="<?php echo base_url() ?>assets/img 2/portfolio/5.jpg">
+                    <a class="venobox" data-gall="myGallery" href="<?php echo base_url() ?>assets/img/gambar/kegiatan 4.jpg">
                       <h4>Beautiful Flower</h4>
                       <span>Web Development</span>
                     </a>
@@ -101,10 +101,10 @@
           <div class="col-md-4 col-sm-4 col-xs-12 design photo">
             <div class="single-awesome-project">
               <div class="awesome-img">
-                <a href="#"><img src="<?php echo base_url() ?>assets/img 2/portfolio/6.jpg" alt="" /></a>
+                <a href="#"><img src="<?php echo base_url() ?>assets/img/gambar/kegiatan 5.jpg" alt="" /></a>
                 <div class="add-actions text-center">
                   <div class="project-dec">
-                    <a class="venobox" data-gall="myGallery" href="<?php echo base_url() ?>assets/img 2/portfolio/6.jpg">
+                    <a class="venobox" data-gall="myGallery" href="<?php echo base_url() ?>assets/img/gambar/kegiatan 5.jpg">
                       <h4>Night Hill</h4>
                       <span>Photoshop</span>
                     </a>

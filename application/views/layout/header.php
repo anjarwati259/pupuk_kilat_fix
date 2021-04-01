@@ -46,7 +46,7 @@ $nav_product  = $this->home_model->nav_product();
               <li><a href="#">Distributor</a></li>
             </ul>
           </li>
-          <li><a href="">Testimoni</a></li>
+          <li><a href="<?php echo base_url('home/testimoni') ?>">Testimoni</a></li>
           <li><a href="<?php echo base_url('home/publikasi') ?>">Publikasi</a></li>
           <li><a href="<?php echo base_url('home/kontak') ?>">Kontak</a></li>
         </ul>

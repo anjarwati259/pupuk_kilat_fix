@@ -91,4 +91,18 @@ class Home extends CI_Controller
 						); 
 		$this->load->view('layout/wrapper', $data, FALSE);
 	}
+	public function order(){
+		$data = array(	
+						'title'		=> 'Page Order',
+						'isi'		=> 'home/order'
+						); 
+		$this->load->view('layout/wrapper', $data, FALSE);
+	}
+	public function testimoni(){
+		$data = array(	
+						'title'		=> 'Testimoni Produk',
+						'isi'		=> 'home/testimoni_page'
+						); 
+		$this->load->view('layout/wrapper', $data, FALSE);
+	}
 }

@@ -2262,7 +2262,7 @@ iframe {
   border: 32px;
   animation: bounceTop_01 3s ease infinite;
 }
-.fun-facts .section-title {
+.fun-facts .section-title2 {
   margin-bottom: 20px;
 }
 .fun-facts .section-title h2 {
@@ -2288,14 +2288,14 @@ iframe {
   line-height: 26px;
   color: var(--black-400);
   margin: 0 0 15px;
-  font-weight: 300px;
+  font-weight: 20px;
 }
 .fun-facts-item {
   padding: 40px 30px;
   text-align: center;
   box-shadow: var(--shadow-black-100);
   border-radius: 10px;
-  margin-top: 30px;
+  margin-top: 10px;
 }
 .fun-facts-item.style-1 {
   background-color: var(--color-1);

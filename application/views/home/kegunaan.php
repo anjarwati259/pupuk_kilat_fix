@@ -24,9 +24,6 @@
                     <i class="fa fa-check"></i> Mempercepat proses pertumbuhan
                   </li>
                   <li>
-                    <i class="fa fa-check"></i> Renovaion of Commercial Office
-                  </li>
-                  <li>
                     <i class="fa fa-check"></i> Mengoptimalkan Produksi Tanaman
                   </li>
                 </ul>
@@ -59,7 +56,7 @@
           </div>
         </div>
         <div class="col-lg-6 col-md-7">
-          <div class="section-title">
+          <div class="section-title2">
             <h2><strong> Program <span>Kemitraan</span></strong></h2>
           </div>
           <div class="fun-facts-text">

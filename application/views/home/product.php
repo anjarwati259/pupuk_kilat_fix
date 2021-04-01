@@ -29,12 +29,6 @@
                       <img src="<?php echo base_url() ?>assets/img/produk/1.png" alt="">
                     </a>
                   </div>
-                  <br><br><br>
-                  <div class="kandungan">
-                    <a href="#">
-                      <img src="<?php echo base_url() ?>assets/img/produk/POC.jpeg" alt="">
-                    </a>
-                  </div>
                 </div>
               </div>
                <!-- single-well end-->
@@ -46,7 +40,25 @@
                       POC Kilat mengandung Hormon tumbuhan dengan extrak formula merupakan rangkaian proses regulasi genetik dan berfungsi sebagai prekursor rangsangan guna terbentuknya hormon tumbuhan, sehingga gen yang semula tidak aktif mulai ekspresi lalu menjadi aktif dan kembali kepada genitika aslinya, produk berbentuk pekatan suspensi, dengan bau khas aroma susu, berwarna putih susu kelabu, tidak mengandung amoniak, tidak bau menyengat, tidak mengandung alkohol, tidak mengandung zat beracun di formulasikan dari bahan alami yang dibutuhkan untuk semua jenis tanaman.
                     </p>
                     <p>Fungsi POC Kilat utamanya sebagai penyedia hara tanah bagi tanaman, adapun fungsi lainnya yaitu meningkatkan pertumbuhan tanaman, memperbaiki kondisi fisik dan biologi tanah, menjaga kelestarian alam serta mendukung terciptanya pemupukan berimbang, peningkatan produktifitas tanaman serta kelestarian alam menjadi perioritas utama bagi Pupuk Organik Cair KILAT dalam berpartisipasi mengembangkan pertanian Indonesia sekarang, saat ini dan masa depan.</p>
-                    <h2>Keunggulan</h2>
+                  </div>
+                </div>
+              </div>
+              <!-- End col-->
+            </div>
+          </div>
+        </section>
+
+        <section id="services" class="services">
+          <div class="container" data-aos="fade-up">
+            <div class="section-title" >
+              <h2><strong>Keunggulan POC Kilat</strong></h2>
+            </div>
+            <div class="row">
+               <!-- single-well end-->
+              <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="well-middle">
+                  <div class="single-well">
+                    <p>Keunnggulan jika menggunakan produk Pupuk Organik Kilat antara lain:</p>
                     <ul>
                       <li>
                         <i class="fa fa-check"></i> Mempercepat fase perkecambahan benih
@@ -55,7 +67,7 @@
                           <i class="fa fa-check"></i> Mempercepat fase pertumbuhan tanaman baik vegetatif hingga generatif
                       </li>
                       <li>
-                          <i class="fa fa-check"></i> Mengurangi penggunaan pupuk an organik hingga 70% secara bertahap serta mengurangi pemakaian pestisida kimia
+                          <i class="fa fa-Scheck"></i> Mengurangi penggunaan pupuk an organik hingga 70% secara bertahap serta mengurangi pemakaian pestisida kimia
                       </li>
                       <li>
                           <i class="fa fa-check"></i> Tanaman menjadi lebih kebal terhadap serangan OPT dan mengurangi kerusakan hasil tanaman
@@ -74,6 +86,16 @@
                 </div>
               </div>
               <!-- End col-->
+              <!-- single-well start-->
+              <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="well-left">
+                  <div class="single-well">
+                    <a href="#">
+                      <img src="<?php echo base_url() ?>assets/img/produk/POC.jpeg" alt="">
+                    </a>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </section>
@@ -94,12 +116,6 @@
                       <img src="<?php echo base_url() ?>assets/img/produk/3.png" alt="">
                     </a>
                   </div>
-                  <br><br><br>
-                  <div class="kandungan">
-                    <a href="#">
-                      <img src="<?php echo base_url() ?>assets/img/produk/ternak.jpeg" alt="">
-                    </a>
-                  </div>
                 </div>
               </div>
                <!-- single-well end-->
@@ -110,7 +126,27 @@
                     <p>
                       Komposisi nutrisi ternak kalium, vitamin A,D,E,K dan protein, lemak, karbohidrat serta natrium. Mengurangi biaya pemeliharaan ternak.
                     </p>
-                    <h2>Keunggulan</h2>
+                  </div>
+                </div>
+              </div>
+              <!-- End col-->
+            </div>
+          </div>
+        </section>
+        <section id="services" class="services">
+          <div class="container" data-aos="fade-up">
+
+            <div class="section-title" >
+              <h2><strong>Keunggulan Nutrisi Ternak</strong></h2>
+            </div>
+            <div class="row">
+               <!-- single-well end-->
+              <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="well-middle">
+                  <div class="single-well">
+                    <p>
+                      Keunnggulan jika menggunakan produk Pupuk Organik Kilat antara lain:
+                    </p>
                     <ul>
                       <li>
                         <i class="fa fa-check"></i> Meningkatkan metabolisme tubuh ternak dan membantu pencernaan ternak
@@ -137,6 +173,17 @@
                   </div>
                 </div>
               </div>
+
+              <!-- single-well start-->
+              <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="well-left">
+                  <div class="single-well">
+                    <a href="#">
+                      <img src="<?php echo base_url() ?>assets/img/produk/ternak.jpeg" alt="">
+                    </a>
+                  </div>
+                </div>
+              </div>
               <!-- End col-->
             </div>
           </div>
@@ -145,7 +192,6 @@
     <?php }else{ ?>
         <section id="services" class="services">
           <div class="container" data-aos="fade-up">
-
             <div class="section-title" >
               <h2><strong><?php echo $produk->nama_produk ?></strong></h2>
             </div>
@@ -156,12 +202,6 @@
                   <div class="single-well">
                     <a href="#">
                       <img src="<?php echo base_url() ?>assets/img/produk/2.png" alt="">
-                    </a>
-                  </div>
-                  <br><br><br>
-                  <div class="kandungan">
-                    <a href="#">
-                      <img src="<?php echo base_url() ?>assets/img/produk/Ikan.jpeg" alt="">
                     </a>
                   </div>
                 </div>
@@ -177,7 +217,25 @@
                       Nutrisi ikan juga dapat digunakan untuk udang dan budidaya tambak serta air tawar dengan keunggulannya mampu merutinkan molting serta mengurangi tingkat kematian bibit saat pemindahan dari kolam bibit ke kolam budidaya. Meningkatkan kualitas daging ikan dan udang serta meningkatkan bobot ikan dan udang (tergantung jenis-jenis ikan dan udang yang dibudidayakan). 
                     </p>
                     <p>Mengandung bahan kalium, vitamin A,D,E,K dan protein, lemak, karbohidrat serta natrium. Mengurangi biaya budidaya ikan dan udang. </p>
-                    <h2>Keunggulan</h2>
+                  </div>
+                </div>
+              </div>
+              <!-- End col-->
+            </div>
+          </div>
+        </section>
+
+        <section id="services" class="services">
+          <div class="container" data-aos="fade-up">
+            <div class="section-title" >
+              <h2><strong>Keunggulan Nutrisi Ikan</strong></h2>
+            </div>
+            <div class="row">
+               <!-- single-well end-->
+              <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="well-middle">
+                  <div class="single-well">
+                    <p>Mengandung bahan kalium, vitamin A,D,E,K dan protein, lemak, karbohidrat serta natrium. Mengurangi biaya budidaya ikan dan udang. </p>
                     <ul>
                       <li>
                         <i class="fa fa-check"></i> Membantu tumbuhnya plankton sebagai pakan alami
@@ -204,6 +262,16 @@
                   </div>
                 </div>
               </div>
+              <!-- single-well start-->
+              <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="well-left">
+                  <div class="single-well">
+                    <a href="#">
+                      <img src="<?php echo base_url() ?>assets/img/produk/ikan.jpeg" alt="">
+                    </a>
+                  </div>
+                </div>
+              </div>
               <!-- End col-->
             </div>
           </div>
@@ -216,7 +284,7 @@
         <div class="row justify-content-center">
           <div class="col-lg-8">
             <div class="section-title">
-              <h2>Pertanyaan <span>Umum</span></h2>
+              <h2><strong>Pertanyaan <span>Umum</span></strong></h2>
             </div>
           </div>
         </div>
