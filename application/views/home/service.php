@@ -64,6 +64,7 @@
           <div class="col-md-6 col-sm-6 col-xs-12" data-aos="fade-up">
             <div class="well-left">
               <div class="single-well">
+                <!-- <iframe width="700" height="350" src="https://www.youtube.com/embed/RGeoBzaKh10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
                 <a href="#">
                   <img src="<?php echo base_url() ?>assets/img/gambar/produk 2.jpg" alt="">
                 </a>
@@ -77,7 +78,7 @@
                 <p>
                   Merupakan produk dari PT. Agrikultur Gemilang Indonesia yang terbuat khusus untuk pertanian, peternakan, dan perikanan dengan kandungan horon terlengkap yang mengandung PH9, yang sangat baik untuk tanaman dan satu - satunya pupuk cair di Indonesia yang mengandung PH9. 
                 </p>
-                <p>Tentu saja, kwalitas tersebut telah mendapatkan pengakuan dari sejumlah lembaga seperti:</p>
+                <p>Tentu saja, kualitas tersebut telah mendapatkan legalitas ijin edar produk dan uji lab dari :</p>
                 <ul>
                   <li>
                     <i class="fa fa-check"></i> Universitas Brawijaya

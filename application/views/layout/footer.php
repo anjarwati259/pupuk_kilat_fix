@@ -15,21 +15,21 @@
           <div class="col-lg-2 col-md-6 footer-links">
             <h4>Quick Links</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Order</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="<?php echo base_url() ?>">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="<?php echo base_url('home/about') ?>">About us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="<?php echo base_url('home/order') ?>">Order</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Pemasaran</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Testimoni</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Publikasi</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="<?php echo base_url('home/testimoni') ?>">Testimoni</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="<?php echo base_url('home/publikasi') ?>">Publikasi</a></li>
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Produk</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">POC Kilat</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Nutrisi Ikan</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Nutrisi Ternak</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="<?php echo base_url('home/product/1') ?>">POC Kilat</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="<?php echo base_url('home/product/3') ?>">Nutrisi Ikan</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="<?php echo base_url('home/product/2') ?>">Nutrisi Ternak</a></li>
             </ul>
           </div>
 

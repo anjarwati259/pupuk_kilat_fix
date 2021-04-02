@@ -114,6 +114,74 @@
       </div>
     </section><!-- produk Section -->
 
+    <!-- ligelitas -->
+    <div id="portfolio" class="portfolio-area area-padding fix">
+      <div class="container">
+        <section id="portfolio" class="portfolio">
+      <div class="container">
+
+        <div class="section-title" data-aos="fade-up">
+          <h2><strong>Hasil Uji Lap Produk</strong></h2>
+        </div>
+        <div class="row wesome-project-1 fix">
+          <!-- Start Portfolio -page -->
+        </div>
+
+        <div class="row awesome-project-content" data-aos="fade-up">
+          <!-- single-awesome-project start -->
+          <div class="col-md-4 col-sm-4 col-xs-12 photo development">
+            <div class="single-awesome-project">
+              <div class="awesome-img">
+                <a href="#"><img src="<?php echo base_url() ?>assets/img/legalitas/01-hasil-uji.jpg" alt="" /></a>
+                <div class="add-actions text-center">
+                  <div class="project-dec">
+                    <a class="venobox" data-gall="myGallery" href="<?php echo base_url() ?>assets/img/legalitas/01-hasil-uji.jpg">
+                      <h4>Uji Lab Produk</h4>
+                      <span>Uji Lap Pupuk Kilat Oleh Universitas Brawijaya </span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- single-awesome-project end -->
+          <div class="col-md-4 col-sm-4 col-xs-12 photo development">
+            <div class="single-awesome-project">
+              <div class="awesome-img">
+                <a href="#"><img src="<?php echo base_url() ?>assets/img/legalitas/02-hasil-uji.jpg" alt="" /></a>
+                <div class="add-actions text-center">
+                  <div class="project-dec">
+                    <a class="venobox" data-gall="myGallery" href="<?php echo base_url() ?>assets/img/legalitas/02-hasil-uji.jpg">
+                      <h4>Uji Lab Produk</h4>
+                      <span>Laporan Hasil Pengujian dari Bioteknologi dan Bioindustri Indonesia</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- single-awesome-project end -->
+          <div class="col-md-4 col-sm-4 col-xs-12 photo development">
+            <div class="single-awesome-project">
+              <div class="awesome-img">
+                <a href="#"><img src="<?php echo base_url() ?>assets/img/legalitas/03-hasil-uji.jpg" alt="" /></a>
+                <div class="add-actions text-center">
+                  <div class="project-dec">
+                    <a class="venobox" data-gall="myGallery" href="<?php echo base_url() ?>assets/img/legalitas/03-hasil-uji.jpg">
+                      <h4>Uji Lab Produk</h4>
+                      <span>Surat Pendaftaran Pupuk Kilat oleh Kementrian Pertanian</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- end ligelitas -->
+
     <!-- Faq Section -->
     <section class="faq section-padding">
       <div class="container">

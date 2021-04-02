@@ -6,33 +6,33 @@
         <!-- Slide 1 -->
         <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.jpg);">
           <div class="carousel-container">
-            <div class="carousel-content animate__animated animate__fadeInUp">
+            <!-- <div class="carousel-content animate__animated animate__fadeInUp">
               <h2>Pupuk Organik Cair Terlengkap</h2>
               <p>Pupuk dengan Kandungan Lengkap untuk Pertumbuhan Segala Jenis Tanaman</p>
               <div class="text-center"><a href="" class="btn-get-started">Selengkapnya</a></div>
-            </div>
+            </div> -->
           </div>
         </div>
 
         <!-- Slide 2 -->
         <div class="carousel-item" style="background-image: url(assets/img/slide/slide-2.jpg);">
           <div class="carousel-container">
-            <div class="carousel-content animate__animated animate__fadeInUp">
+            <!-- <div class="carousel-content animate__animated animate__fadeInUp">
               <h2>Pupuk Organik Cair Terlengkap</h2>
               <p>Pupuk Organik yang mengandung PH9 satu-satunya di Indonesia </p>
               <div class="text-center"><a href="" class="btn-get-started">Selengkapnya</a></div>
-            </div>
+            </div> -->
           </div>
         </div>
 
         <!-- Slide 3 -->
         <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg);">
           <div class="carousel-container">
-            <div class="carousel-content animate__animated animate__fadeInUp">
+            <!-- <div class="carousel-content animate__animated animate__fadeInUp">
               <h2>Pupuk Organik Cair Terlengkap</h2>
               <p>Pupuk Organik untuk solusi pertanian sekarang, saat ini dan masa depan</p>
               <div class="text-center"><a href="" class="btn-get-started">Selengkapnya</a></div>
-            </div>
+            </div> -->
           </div>
         </div>
 

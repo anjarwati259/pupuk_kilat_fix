@@ -173,59 +173,6 @@
               </div>
             </div>
           </div>
-
-          <!-- single-awesome-project start -->
-          <div class="col-md-4 col-sm-4 col-xs-12 design development">
-            <div class="single-awesome-project">
-              <div class="legalitas-img">
-                <a href="#"><img src="<?php echo base_url() ?>assets/img/legalitas/01-hasil-uji.jpg" alt="" /></a>
-                <div class="add-actions text-center">
-                  <div class="project-dec">
-                    <a class="venobox" data-gall="myGallery" href="<?php echo base_url() ?>assets/img/legalitas/01-hasil-uji.jpg">
-                      <h4>Uji Efektivitas</h4>
-                      <span>Laporan Akhir Uji Efektivitas Pupuk Kilat dari Universitas Brawijaya</span>
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- single-awesome-project end -->
-
-          <!-- single-awesome-project start -->
-          <div class="col-md-4 col-sm-4 col-xs-12 photo">
-            <div class="single-awesome-project">
-              <div class="awesome-img">
-                <a href="#"><img src="<?php echo base_url() ?>assets/img/legalitas/02-hasil-uji.jpg" alt="" /></a>
-                <div class="add-actions text-center">
-                  <div class="project-dec">
-                    <a class="venobox" data-gall="myGallery" href="<?php echo base_url() ?>assets/img/legalitas/02-hasil-uji.jpg">
-                      <h4>Uji Efektivitas</h4>
-                      <span>Hasil Pengujian dari Pusat Penelitian Bioteknologi dan Bioindustri Indonesia</span>
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- single-awesome-project end -->
-          <!-- single-awesome-project start -->
-          <div class="col-md-4 col-sm-4 col-xs-12 design">
-            <div class="single-awesome-project">
-              <div class="awesome-img">
-                <a href="#"><img src="<?php echo base_url() ?>assets/img/legalitas/03-hasil-uji.jpg" alt="" /></a>
-                <div class="add-actions text-center">
-                  <div class="project-dec">
-                    <a class="venobox" data-gall="myGallery" href="<?php echo base_url() ?>assets/img/legalitas/03-hasil-uji.jpg">
-                      <h4>Uji Efektivitas</h4>
-                      <span>Surat Pendaftaran Produk oleh Menteri Pertanian Indonesia</span>
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- single-awesome-project end -->
         </div>
       </div>
     </div>

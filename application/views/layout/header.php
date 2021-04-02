@@ -39,7 +39,7 @@ $nav_product  = $this->home_model->nav_product();
             <?php } ?>
             </ul>
           </li>
-          <li><a href="services.html">Order</a></li>
+          <li><a href="<?php echo base_url('home/order') ?>">Order</a></li>
           <li class="drop-down"><a href="">Pemasaran</a>
             <ul>
               <li><a href="#">Mitra</a></li>
