@@ -296,4 +296,27 @@
     </section>
 <!-- testimoni end -->
 
+<!-- tawaran -->
+<section id="clients" class="clients">
+  <div class="container">
+
+    <div class="section-title" data-aos="fade-up">
+      <h2><strong>Yakin Tidak Membeli Produk Kilat?</strong></h2>
+      <p>Dengan berbagai keunggulan dari Produk Kilat dan juga telah dibuktikan oleh berbagai petani, kini saatnya untuk beralih ke produk kilat yang ramah lingkungan agar panen anda bisa dua kali lipat tanpa merusak lingkungan dan kesuburan tanah.</p>
+    </div>
+    <div class="row" data-aos="fade-up">
+      <div class="col-lg-4 col-md-4 d-flex align-items-stretch justify-content-center">
+        <div class="text-center"><a href="<?php echo base_url('home/order') ?>" class="btn-get-started"><i class="icofont-shopping-cart" style="font-size: 25px;"> Order Sekarang</i></a></div>
+      </div>
+      <div class="col-lg-4 col-md-4 d-flex align-items-stretch justify-content-center">
+        <div class="text-center"><a href="https://api.whatsapp.com/send?phone=6285336477178" class="btn-get-started"><i class="icofont-brand-whatsapp" style="font-size: 25px;"> Order via WA</i></a></div>
+      </div>
+      <div class="col-lg-4 col-md-4 d-flex align-items-stretch justify-content-center">
+        <div class="text-center"><a href="https://api.whatsapp.com/send?phone=6285330851841" class="btn-get-started"> <i class="icofont-brand-whatsapp" style="font-size: 25px;"> Konsultasi</i></a></div>
+      </div>
+    </div>
+    
+  </div>
+</section>
+<!-- tawaran -->
  </main>

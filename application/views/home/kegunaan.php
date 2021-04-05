@@ -66,7 +66,7 @@
           <div class="row">
             <div class="col-sm-6">
               <div class="fun-facts-item style-3">
-                <h3>21</h3>
+                <h3>19</h3>
                 <span>Mitra</span>
               </div>
             </div>

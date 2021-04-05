@@ -33,10 +33,10 @@
           <div class="col-md-4 col-sm-4 col-xs-12 photo">
             <div class="single-awesome-project">
               <div class="awesome-img">
-                <a href="#"><img src="<?php echo base_url() ?>assets/img/gambar/kegiatan 1.jpg" alt="" /></a>
+                <a href="#"><img src="<?php echo base_url() ?>assets/img/gambar/panen 2.jfif" alt="" /></a>
                 <div class="add-actions text-center">
                   <div class="project-dec">
-                    <a class="venobox" data-gall="myGallery" href="<?php echo base_url() ?>assets/img/gambar/kegiatan 1.jpg">
+                    <a class="venobox" data-gall="myGallery" href="<?php echo base_url() ?>assets/img/gambar/panen 2.jfif">
                       <h4>Tasyakuran</h4>
                       <!-- <span>Photosho</span> -->
                     </a>
@@ -71,8 +71,8 @@
                 <div class="add-actions text-center">
                   <div class="project-dec">
                     <a class="venobox" data-gall="myGallery" href="<?php echo base_url() ?>assets/img/gambar/kegiatan 3.jpg">
-                      <h4>Creative Team</h4>
-                      <span>Web design</span>
+                      <h4>Menimbang Hasil Panen</h4>
+                      <!-- <span>Web design</span> -->
                     </a>
                   </div>
                 </div>
@@ -88,8 +88,8 @@
                 <div class="add-actions text-center text-center">
                   <div class="project-dec">
                     <a class="venobox" data-gall="myGallery" href="<?php echo base_url() ?>assets/img/gambar/kegiatan 4.jpg">
-                      <h4>Beautiful Flower</h4>
-                      <span>Web Development</span>
+                      <h4>Panen Padi Bersama Petugas Lapang</h4>
+                      <!-- <span>Web Development</span> -->
                     </a>
                   </div>
                 </div>
@@ -105,8 +105,8 @@
                 <div class="add-actions text-center">
                   <div class="project-dec">
                     <a class="venobox" data-gall="myGallery" href="<?php echo base_url() ?>assets/img/gambar/kegiatan 5.jpg">
-                      <h4>Night Hill</h4>
-                      <span>Photoshop</span>
+                      <h4>Bersama Petani Pengguna Pupuk Kilat</h4>
+                      <!-- <span>Photoshop</span> -->
                     </a>
                   </div>
                 </div>

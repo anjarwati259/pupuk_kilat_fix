@@ -56,4 +56,21 @@ class Home_model extends CI_Model
 		$query = $this->db->get();
 		return $query->result();
 	}
+	//load menu navbar produk
+	public function list_mitra()
+	{
+		$this->db->select('*');
+		$this->db->from('tb_mitra');
+		$this->db->order_by('id_mitra','desc');
+		$query = $this->db->get();
+		return $query->result();
+	}
+	public function list_distributor()
+	{
+		$this->db->select('*');
+		$this->db->from('tb_distributor');
+		$this->db->order_by('id_distributor','desc');
+		$query = $this->db->get();
+		return $query->result();
+	}
 }

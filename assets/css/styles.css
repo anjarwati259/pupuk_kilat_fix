@@ -761,11 +761,11 @@ body {
 }
 
 a {
-  color: #f03c02;
+  color: #7BB841;
 }
 
 a:hover {
-  color: #fd5c28;
+  color: #7BB841;
   text-decoration: none;
 }
 
@@ -784,7 +784,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 3px;
   right: 15px;
   bottom: 15px;
-  background: #f03c02;
+  background: #7BB841;
   color: #fff;
   transition: display 0.5s ease-in-out;
   z-index: 99999;
@@ -799,7 +799,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .back-to-top:hover {
   color: #fff;
-  background: #fd5c28;
+  background: #7BB841;
   transition: 0.3s ease-in-out;
 }
 
@@ -828,11 +828,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #topbar .contact-info a:hover {
-  color: #f03c02;
+  color: #7BB841;
 }
 
 #topbar .contact-info i {
-  color: #f03c02;
+  color: #7BB841;
   padding: 4px;
 }
 
@@ -851,7 +851,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #topbar .social-links a:hover {
-  color: #f03c02;
+  color: #7BB841;
 }
 
 /*--------------------------------------------------------------
@@ -923,7 +923,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #f03c02;
+  color: #7BB841;
   text-decoration: none;
 }
 
@@ -961,7 +961,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
-  color: #f03c02;
+  color: #7BB841;
 }
 
 .nav-menu .drop-down > a:after {
@@ -1058,7 +1058,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #f03c02;
+  color: #7BB841;
   text-decoration: none;
 }
 
@@ -1173,7 +1173,7 @@ section {
   text-align: center;
   width: 72px;
   height: 72px;
-  background: #f03c02;
+  background: #7BB841;
 }
 
 .services .icon i {
@@ -1194,15 +1194,15 @@ section {
 
 .services .icon-box:hover .icon {
   background: #fff;
-  border: 2px solid #f03c02;
+  border: 2px solid #7BB841;
 }
 
 .services .icon-box:hover .icon i {
-  color: #f03c02;
+  color: #7BB841;
 }
 
 .services .icon-box:hover .title a {
-  color: #f03c02;
+  color: #7BB841;
 }
 
 .services .description {
@@ -1331,7 +1331,7 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #f03c02;
+  background: #7BB841;
   color: #fff;
   transition: 0.3s;
   border-radius: 0 4px 4px 0;
@@ -1339,7 +1339,7 @@ section {
 }
 
 #footer .footer-newsletter form input[type="submit"]:hover {
-  background: #fd5c28;
+  background: #7BB841;
 }
 
 #footer .credits {
@@ -1351,7 +1351,7 @@ section {
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #f03c02;
+  background: #7BB841;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1364,7 +1364,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #fd5c28;
+  background: #7BB841;
   color: #fff;
   text-decoration: none;
 }

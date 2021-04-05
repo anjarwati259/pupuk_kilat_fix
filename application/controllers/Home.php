@@ -105,4 +105,22 @@ class Home extends CI_Controller
 						); 
 		$this->load->view('layout/wrapper', $data, FALSE);
 	}
+	public function mitra(){
+		$mitra = $this->home_model->list_mitra();
+		$data = array(	
+						'title'		=> 'Informasi Mitra',
+						'mitra'		=> $mitra,
+						'isi'		=> 'home/mitra'
+						); 
+		$this->load->view('layout/wrapper', $data, FALSE);
+	}
+	public function distributor(){
+		$distributor = $this->home_model->list_distributor();
+		$data = array(	
+						'title'		=> 'Informasi Distributor',
+						'distributor' => $distributor,
+						'isi'		=> 'home/distributor'
+						);
+		$this->load->view('layout/wrapper', $data, FALSE);
+	}
 }

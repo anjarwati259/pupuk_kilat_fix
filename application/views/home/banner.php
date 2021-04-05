@@ -4,7 +4,7 @@
       <div class="carousel-inner" role="listbox">
 
         <!-- Slide 1 -->
-        <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.jpg);">
+        <div class="carousel-item active" style="background-image: url(assets/img/slide/slider1.jpg);">
           <div class="carousel-container">
             <!-- <div class="carousel-content animate__animated animate__fadeInUp">
               <h2>Pupuk Organik Cair Terlengkap</h2>

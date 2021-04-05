@@ -178,7 +178,7 @@
     </div>
     <!-- end ligelitas -->
     <!-- ======= Our Team Section ======= -->
-    <section id="team" class="team section-bg">
+    <!-- <section id="team" class="team section-bg">
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
@@ -337,5 +337,6 @@
         </div>
 
       </div>
-    </section><!-- End Our Team Section -->
+    </section> -->
+    <!-- End Our Team Section -->
 </main>

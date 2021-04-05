@@ -42,8 +42,8 @@ $nav_product  = $this->home_model->nav_product();
           <li><a href="<?php echo base_url('home/order') ?>">Order</a></li>
           <li class="drop-down"><a href="">Pemasaran</a>
             <ul>
-              <li><a href="#">Mitra</a></li>
-              <li><a href="#">Distributor</a></li>
+              <li><a href="<?php echo base_url('home/mitra') ?>">Mitra</a></li>
+              <li><a href="<?php echo base_url('home/distributor') ?>">Distributor</a></li>
             </ul>
           </li>
           <li><a href="<?php echo base_url('home/testimoni') ?>">Testimoni</a></li>
