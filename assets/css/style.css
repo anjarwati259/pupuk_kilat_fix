@@ -4,7 +4,7 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
-
+ 
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -12,7 +12,7 @@ body {
   font-family: "Open Sans", sans-serif;
   color: #4d4643;
 }
-
+ 
 a {
   color: #7BB841;
 }
@@ -26,6 +26,9 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Muli", sans-serif;
 }
 
+.portfolio-flters a{
+  color: #fff;
+}
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -369,19 +372,29 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
-#hero {
+/*#hero {
   width: 100%;
-  height: 70vh;
+  height: auto;
   overflow: hidden;
   position: relative;
   padding: 0;
+}*/
+@media only screen and (max-width: 600px) {
+  #hero {
+    position: relative;
+    max-width: 100%;
+    max-height: 300px;
+  }
 }
 
-#hero .carousel, #hero .carousel-inner, #hero .carousel-item, #hero .carousel-item::before {
-  background-size: cover;
+#hero .carousel, #hero .carousel-inner, #hero .carousel-item, #hero .carousel-item img {
+  /*background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  position: absolute;
+  position: absolute;*/
+  position: relative;
+  height: 100%;
+  width: 100%;
   top: 0;
   right: 0;
   left: 0;
@@ -718,14 +731,14 @@ section {
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
-.portfolio #portfolio-flters {
+#portfolio-flters {
   padding: 0;
-  margin: 0 auto 50px auto;
+  margin: 50px auto 0 auto;
   list-style: none;
   text-align: center;
 }
 
-.portfolio #portfolio-flters li {
+#portfolio-flters li {
   cursor: pointer;
   display: inline-block;
   padding: 8px 20px 10px 20px;
@@ -738,7 +751,7 @@ section {
   border-radius: 50px;
 }
 
-.portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
+#portfolio-flters li > a:hover, .portfolio #portfolio-flters li.filter-active {
   color: #fff;
   background: #7BB841;
 }
@@ -748,14 +761,14 @@ section {
 }
 
 .portfolio .portfolio-item {
-  margin-bottom: 30px;
+  /*margin-bottom: 30px;*/
 }
 
 .portfolio .portfolio-item .portfolio-info {
   opacity: 0;
   position: absolute;
   left: 30px;
-  right: 30px;
+  /*right: 30px;*/
   bottom: 0;
   z-index: 3;
   transition: all ease-in-out 0.3s;
@@ -1498,7 +1511,7 @@ section {
 .blog .entry {
   padding: 30px;
   margin-bottom: 60px;
-  background: #f8f6f5;
+  background: #fff;
 }
 
 .blog .entry .entry-img {
@@ -1872,15 +1885,15 @@ section {
 }
 
 .blog .sidebar {
-  padding: 30px;
-  margin: 0 0 60px 20px;
-  background: #f8f6f5;
+  /*padding: 30px;*/
+  margin: 0 0 0 20px;
+  background: #fff;
 }
 
 .blog .sidebar .sidebar-title {
   font-size: 20px;
   font-weight: 700;
-  padding: 0 0 0 0;
+  padding-left: 20px;
   margin: 0 0 15px 0;
   color: #2b2320;
   position: relative;
@@ -1926,11 +1939,12 @@ section {
 
 .blog .sidebar .categories ul {
   list-style: none;
-  padding: 0;
+  padding-left: 20px;
 }
 
 .blog .sidebar .categories ul li + li {
   padding-top: 10px;
+  bottom: 20px;
 }
 
 .blog .sidebar .categories ul a {
@@ -2176,6 +2190,23 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+.color1{
+  padding-top: 60px;
+  padding-bottom: 30px;
+  background-color: #f9f9f9;
+}
+.color2{
+  padding-top: 60px;
+  padding-bottom: 30px;
+  background-color: #fff;
+}
+
+.color3{
+  padding-top: 60px;
+  padding-bottom: 30px;
+  background-color: #f9f9f9;
+}
+
 .about-area {
   padding-top: 60px;
   background-color: #f9f9f9;
@@ -2184,21 +2215,31 @@ section {
 .single-well > a {
   display: block;
 }
+@media only screen and (max-width: 600px) {
+  .visi h2{
+    padding-top: 2px;
+  }
+}
 
 .visi-left{
   background-color: #7BB841;
   padding-left: 60px;
 }
 .visi p {
+  height: 100%;
   position: relative;
   text-align: center;
-  top:230px;
+  display: block;
+  /*top:230px;*/
   color: #99FFAA;
 }
 .visi h2{
   position: relative;
   text-align: center;
-  top:230px;
+  display: block;
+  padding-top: 2%;
+  padding-bottom: 20%;
+  /*top:230px;*/
   color: #f5f5f5;
 }
 .misi-left{
@@ -2589,4 +2630,21 @@ iframe {
   font-weight: 300;
   font-size: 16px;
   color: var(--black-400);
+}
+
+/*csroll table*/
+.scrollmenu {
+  background-color: none;
+  overflow: auto;
+  white-space: nowrap;
+}
+.scrollmenu table {
+  /*display: inline-block;*/
+  /*color: white;*/
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+.frame{
+  padding-right: 20px;
 }

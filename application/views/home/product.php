@@ -5,7 +5,7 @@
             <div class="container">
 
                 <div class="d-flex justify-content-between align-items-center">
-                    <h2>Produk</h2>
+                    <h2>PRODUK</h2>
                     
                 </div>
 
@@ -277,6 +277,73 @@
           </div>
         </section>
     <?php } ?>
+    <!-- ligelitas -->
+    <div id="portfolio" class="portfolio-area area-padding fix">
+      <div class="container">
+        <section id="portfolio" class="portfolio">
+      <div class="container">
+
+        <div class="section-title" data-aos="fade-up">
+          <h2><strong>Uji Lab dan Izin Edar Produk Kilat</strong></h2>
+        </div>
+        <div class="row wesome-project-1 fix">
+          <!-- Start Portfolio -page -->
+        </div>
+
+        <div class="row awesome-project-content" data-aos="fade-up">
+          <!-- single-awesome-project start -->
+          <div class="col-md-4 col-sm-4 col-xs-12 photo development">
+            <div class="single-awesome-project">
+              <div class="awesome-img">
+                <a href="#"><img src="<?php echo base_url() ?>assets/img/legalitas/01-hasil-uji.jpg" alt="" /></a>
+                <div class="add-actions text-center">
+                  <div class="project-dec">
+                    <a class="venobox" data-gall="myGallery" href="<?php echo base_url() ?>assets/img/legalitas/01-hasil-uji.jpg">
+                      <h4>Uji Lab Produk</h4>
+                      <span>Uji Lap Pupuk Kilat Oleh Universitas Brawijaya </span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- single-awesome-project end -->
+          <div class="col-md-4 col-sm-4 col-xs-12 photo development">
+            <div class="single-awesome-project">
+              <div class="awesome-img">
+                <a href="#"><img src="<?php echo base_url() ?>assets/img/legalitas/02-hasil-uji.jpg" alt="" /></a>
+                <div class="add-actions text-center">
+                  <div class="project-dec">
+                    <a class="venobox" data-gall="myGallery" href="<?php echo base_url() ?>assets/img/legalitas/02-hasil-uji.jpg">
+                      <h4>Uji Lab Produk</h4>
+                      <span>Laporan Hasil Pengujian dari Bioteknologi dan Bioindustri Indonesia</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- single-awesome-project end -->
+          <div class="col-md-4 col-sm-4 col-xs-12 photo development">
+            <div class="single-awesome-project">
+              <div class="awesome-img">
+                <a href="#"><img src="<?php echo base_url() ?>assets/img/legalitas/03-hasil-uji.jpg" alt="" /></a>
+                <div class="add-actions text-center">
+                  <div class="project-dec">
+                    <a class="venobox" data-gall="myGallery" href="<?php echo base_url() ?>assets/img/legalitas/03-hasil-uji.jpg">
+                      <h4>Izin Edar Produk Kilat</h4>
+                      <span>Surat Pendaftaran Pupuk Kilat oleh Kementrian Pertanian</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- end ligelitas -->
 
     <!-- pertanyaan -->
     <section class="faq section-padding">
@@ -394,7 +461,7 @@
   <div class="container">
 
     <div class="section-title" data-aos="fade-up">
-      <h2><strong>Yakin Tidak Membeli Produk Kilat?</strong></h2>
+      <h2><strong>Ayo Order Prodk Kilat Sekarang Juga !!</strong></h2>
       <p>Dengan berbagai keunggulan dari Produk Kilat dan juga telah dibuktikan oleh berbagai petani, kini saatnya untuk beralih ke produk kilat yang ramah lingkungan agar panen anda bisa dua kali lipat tanpa merusak lingkungan dan kesuburan tanah.</p>
     </div>
     <div class="row" data-aos="fade-up">

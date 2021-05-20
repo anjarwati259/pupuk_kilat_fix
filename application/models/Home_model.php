@@ -61,7 +61,7 @@ class Home_model extends CI_Model
 	{
 		$this->db->select('*');
 		$this->db->from('tb_mitra');
-		$this->db->order_by('id_mitra','desc');
+		$this->db->order_by('provinsi','asc');
 		$query = $this->db->get();
 		return $query->result();
 	}
@@ -70,6 +70,39 @@ class Home_model extends CI_Model
 		$this->db->select('*');
 		$this->db->from('tb_distributor');
 		$this->db->order_by('id_distributor','desc');
+		$query = $this->db->get();
+		return $query->result();
+	}
+	public function testi()
+	{
+		$this->db->select('*');
+		$this->db->from('tb_testimoni');
+		$this->db->order_by('id_test','desc');
+		$query = $this->db->get();
+		return $query->result();
+	}
+	public function kategori()
+	{
+		$this->db->select('*');
+		$this->db->from('tb_kategori');
+		$this->db->order_by('nama_kategori','asc');
+		$query = $this->db->get();
+		return $query->result();
+	}
+	//detail slug kategori
+	public function read($kategori){
+		$this->db->select('*');
+		$this->db->from('tb_testimoni');
+		$this->db->where('id_kategori', $kategori);
+		$this->db->order_by('id_test','desc');
+		$query = $this->db->get();
+		return $query->result();
+	}
+	public function testimoni($limit, $start){
+		$this->db->select('*');
+		$this->db->from('tb_testimoni');
+		$this->db->order_by('id_test','desc');
+		$this->db->limit($limit,$start);
 		$query = $this->db->get();
 		return $query->result();
 	}

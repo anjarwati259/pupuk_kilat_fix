@@ -9,12 +9,10 @@
         <div class="row portfolio-container" data-aos="fade-up">
 
           <div class="col-lg-6 col-md-6 portfolio-item filter-app">
-            <!-- <img src="<?php echo base_url() ?>assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt=""> -->
               <iframe width="700" height="350" src="https://www.youtube.com/embed/NbxS8vCwLqc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
 
           <div class="col-lg-6 col-md-6 portfolio-item filter-app">
-            <!-- <img src="<?php echo base_url() ?>assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt=""> -->
               <iframe width="700" height="350" src="https://www.youtube.com/embed/0pzUEepvIUg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
 
@@ -26,6 +24,5 @@
             <iframe width="700" height="350" src="https://www.youtube.com/embed/AYr-O1QYdvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
         </div>
-
       </div>
     </section><!-- End Testimoni Section -->

@@ -71,8 +71,10 @@
     $(document).on('click', '.mobile-nav .drop-down > a', function(e) {
       e.preventDefault();
       $(this).next().slideToggle(300);
+      
       $(this).parent().toggleClass('active');
     });
+
 
     $(document).click(function(e) {
       var container = $(".mobile-nav, .mobile-nav-toggle");

@@ -121,7 +121,7 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2><strong>Hasil Uji Lap Produk</strong></h2>
+          <h2><strong>Uji Lab dan Izin Edar Produk Kilat</strong></h2>
         </div>
         <div class="row wesome-project-1 fix">
           <!-- Start Portfolio -page -->
@@ -169,7 +169,7 @@
                 <div class="add-actions text-center">
                   <div class="project-dec">
                     <a class="venobox" data-gall="myGallery" href="<?php echo base_url() ?>assets/img/legalitas/03-hasil-uji.jpg">
-                      <h4>Uji Lab Produk</h4>
+                      <h4>Izin Edar Produk Kilat</h4>
                       <span>Surat Pendaftaran Pupuk Kilat oleh Kementrian Pertanian</span>
                     </a>
                   </div>
@@ -185,14 +185,14 @@
     <!-- Faq Section -->
     <section class="faq section-padding">
       <div class="container">
-        <div class="row justify-content-center">
+        <div class="row justify-content-center" data-aos="fade-up">
           <div class="col-lg-8">
             <div class="section-title">
               <h2>Pertanyaan <span>Umum</span></h2>
             </div>
           </div>
         </div>
-        <div class="row">
+        <div class="row" data-aos="fade-up">
           <div class="col-lg-6 col-md-5 d-flex align-items-center">
             <div id="accordion">
               <div class="accordion-item">
@@ -301,7 +301,7 @@
   <div class="container">
 
     <div class="section-title" data-aos="fade-up">
-      <h2><strong>Yakin Tidak Membeli Produk Kilat?</strong></h2>
+      <h2><strong>Ayo Order Prodk Kilat Sekarang Juga !!</strong></h2>
       <p>Dengan berbagai keunggulan dari Produk Kilat dan juga telah dibuktikan oleh berbagai petani, kini saatnya untuk beralih ke produk kilat yang ramah lingkungan agar panen anda bisa dua kali lipat tanpa merusak lingkungan dan kesuburan tanah.</p>
     </div>
     <div class="row" data-aos="fade-up">

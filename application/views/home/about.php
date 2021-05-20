@@ -28,19 +28,19 @@
             <div class="well-middle">
               <div class="single-well">
                 <p>
-                  PT. Agrikultur Gemilang Indonesia yang bergerak pada distribusi pupuk pertanian, perikanan dan peternakan yang berbahan organikyang memiliki visi menjadi pengembang teknologi pertanian terkemuka di Indonesia guna mendukung pertanian nasional yang tangguh dan berkelanjutan.
+                  PT. Agrikultur Gemilang Indonesia yang bergerak pada distribusi pupuk pertanian, perikanan dan peternakan yang berbahan organik yang memiliki visi menjadi pengembang teknologi pertanian terkemuka di Indonesia guna mendukung pertanian nasional yang tangguh dan berkelanjutan.
                 </p>
-                <p>PT. Agrikultur Gemilang Indonesia berdiri tanggal 26 November 2010 yang berpusat di Jl. Manggis Raya No.11 Jemberlor Patrang, Jember Jawa Timur. Saat ini PT. Agrikultur Gemilang Indonesia telah menjalin kerjasama dengan mitra dan distributor dibeberapa wilayah yang secara resmi memasarkan produk brand dari pupuk kilat.</p>
-                <p>PT. Agrikultur Gemilang Indonesia saat ini memiliki 3 produk yaitu: 
+                <p>PT. Agrikultur Gemilang Indonesia berdiri tanggal 26 November 2010 yang berpusat di Jl. Manggis Raya No.11 Jemberlor Patrang, Jember Jawa Timur. </p>
+                <p>PT. Agrikultur Gemilang Indonesia saat ini memiliki 3 varian produk unggulan yang sangat bagus. Selain itu, produk ini juga asli buatan Indonesia karya anak bangsa. 3 Produk tersebut adalah:
                 <ul>
                   <li>
-                    <i class="fa fa-check"></i> Pupuk Organik Cair yang saat ini telah menjadi best seller karena kandungannya yang lengkap dan dilengkapi dengan PH9 yang baik untuk tanaman sekaligus satu-satunya pupuk organik yang mengandung PH9.
+                    <i class="fa fa-check"></i> Pupuk Kilat yang saat ini telah menjadi best seller karena kandungannya yang sangat lengkap dan dapat menyuburkan tanaman sehingga meningkatkan hasil panen segala jenis tanaman.
                   </li>
                   <li>
-                    <i class="fa fa-check"></i> Nutrisi ikan yang dapat digunakan untuk budidaya ikan sekaligus juga dapat digunakan untuk udang dan budidaya tambak air tawar.
+                    <i class="fa fa-check"></i> Nutrisi ikan yang mampu meningkatkan bobot ikan secara alami juga panen lebih cepat dari sebelumnya.
                   </li>
                   <li>
-                    <i class="fa fa-check"></i> Nutrisi Ternak yang memiliki kandungan yang dapat merangsang penambah napsu makan.
+                    <i class="fa fa-check"></i> Nutrisi Ternak yang memiliki kandungan yang dapat merangsang penambah nafsu makan sehingga meningkatkan produktifitas maupun kualitas hasil ternak
                   </li>
                 </ul>
               </p>
@@ -67,9 +67,9 @@
               <div class="single-well">
                 <div class="visi">
                   <h2>Visi <strong>Kami</strong></h2>
-                <p style="color: #f5f5f5; font-size: 25px;">
+                  <p style="color: #f5f5f5; font-size: 25px;">
                   Menjadi pengembang teknologi pertanian terkemuka di Indonesia guna mendukung pertanian nasional yang tangguh dan berkelanjutan
-                </p>
+                  </p>
                 </div>
               </div>
             </div>
@@ -114,67 +114,67 @@
     <div id="portfolio" class="portfolio-area area-padding fix">
       <div class="container">
         <section id="portfolio" class="portfolio">
-      <div class="container">
+          <div class="container">
 
-        <div class="section-title" data-aos="fade-up">
-          <h2>Legalitas <strong>Perusahaan</strong></h2>
-        </div>
-        <div class="row wesome-project-1 fix">
-          <!-- Start Portfolio -page -->
-        </div>
+            <div class="section-title" data-aos="fade-up">
+              <h2>Legalitas <strong>Perusahaan</strong></h2>
+            </div>
+            <div class="row wesome-project-1 fix">
+              <!-- Start Portfolio -page -->
+            </div>
 
-        <div class="row awesome-project-content" data-aos="fade-up">
-          <!-- single-awesome-project start -->
-          <div class="col-md-4 col-sm-4 col-xs-12 photo development">
-            <div class="single-awesome-project">
-              <div class="awesome-img">
-                <a href="#"><img src="<?php echo base_url() ?>assets/img/legalitas/legal 1.jpg" alt="" /></a>
-                <div class="add-actions text-center">
-                  <div class="project-dec">
-                    <a class="venobox" data-gall="myGallery" href="<?php echo base_url() ?>assets/img/legalitas/legal 1.jpg">
-                      <h4>Legalitas</h4>
-                      <span>Surat Ijin Berusaha (NIB) </span>
-                    </a>
+            <div class="row awesome-project-content" data-aos="fade-up">
+              <!-- single-awesome-project start -->
+              <div class="col-md-4 col-sm-4 col-xs-12 photo development">
+                <div class="single-awesome-project">
+                  <div class="awesome-img">
+                    <a href="#"><img src="<?php echo base_url() ?>assets/img/legalitas/legal-1.jpg" alt="" /></a>
+                    <div class="add-actions text-center">
+                      <div class="project-dec">
+                        <a class="venobox" data-gall="myGallery" href="<?php echo base_url() ?>assets/img/legalitas/legal-1.jpg">
+                          <h4>Legalitas</h4>
+                          <span>Surat Ijin Berusaha (NIB) </span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- single-awesome-project end -->
+              <div class="col-md-4 col-sm-4 col-xs-12 photo development">
+                <div class="single-awesome-project">
+                  <div class="awesome-img">
+                    <a href="#"><img src="<?php echo base_url() ?>assets/img/legalitas/legal 2.jpg" alt="" /></a>
+                    <div class="add-actions text-center">
+                      <div class="project-dec">
+                        <a class="venobox" data-gall="myGallery" href="<?php echo base_url() ?>assets/img/legalitas/legal 2.jpg">
+                          <h4>Legalitas</h4>
+                          <span>Pengesahan Pendirian Badan Hukum Peseroan Terbatas</span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- single-awesome-project end -->
+              <div class="col-md-4 col-sm-4 col-xs-12 photo development">
+                <div class="single-awesome-project">
+                  <div class="awesome-img">
+                    <a href="#"><img src="<?php echo base_url() ?>assets/img/legalitas/legal 3.jpg" alt="" /></a>
+                    <div class="add-actions text-center">
+                      <div class="project-dec">
+                        <a class="venobox" data-gall="myGallery" href="<?php echo base_url() ?>assets/img/legalitas/legal 3.jpg">
+                          <h4>Legalitas</h4>
+                          <span>Surat Ijin Usaha Perdagangan (SIUP)</span>
+                        </a>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-          <!-- single-awesome-project end -->
-          <div class="col-md-4 col-sm-4 col-xs-12 photo development">
-            <div class="single-awesome-project">
-              <div class="awesome-img">
-                <a href="#"><img src="<?php echo base_url() ?>assets/img/legalitas/legal 2.jpg" alt="" /></a>
-                <div class="add-actions text-center">
-                  <div class="project-dec">
-                    <a class="venobox" data-gall="myGallery" href="<?php echo base_url() ?>assets/img/legalitas/legal 2.jpg">
-                      <h4>Legalitas</h4>
-                      <span>Pengesahan Pendirian Badan Hukum Peseroan Terbatas</span>
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <!-- single-awesome-project end -->
-          <div class="col-md-4 col-sm-4 col-xs-12 photo development">
-            <div class="single-awesome-project">
-              <div class="awesome-img">
-                <a href="#"><img src="<?php echo base_url() ?>assets/img/legalitas/legal 3.jpg" alt="" /></a>
-                <div class="add-actions text-center">
-                  <div class="project-dec">
-                    <a class="venobox" data-gall="myGallery" href="<?php echo base_url() ?>assets/img/legalitas/legal 3.jpg">
-                      <h4>Legalitas</h4>
-                      <span>Surat Ijin Usaha Perdagangan (SIUP)</span>
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
     </div>
     <!-- end ligelitas -->
     <!-- ======= Our Team Section ======= -->

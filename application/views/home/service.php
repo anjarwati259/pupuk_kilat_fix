@@ -10,42 +10,42 @@
           <div class="icon-box" data-aos="fade-up">
             <div class="icon"><i class="icofont-computer"></i></div>
             <h4 class="title"><a href="">Support Pemasaran</a></h4>
-            <p class="description"> Dengan menjadi mitra atau distributor resmi akan mendapatkan support Product seperti brosur, banner dan buku Aplikasi</p>
+            <p class="description"> Dengan menjadi mitra atau distributor resmi akan mendapatkan support Product seperti kaos petani, brosur, banner dan buku Aplikasi</p>
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
           <div class="icon-box" data-aos="fade-up" >
             <div class="icon"><i class="icofont-chart-bar-graph"></i></div>
             <h4 class="title"><a href="">Pengiriman Seluruh Indonesia</a></h4>
-            <p class="description">Saat ini PT Agrikultur dapat melakukan pengiriman diseluruh indonesia</p>
+            <p class="description">Semua produk PT. AGI dapat dikirim keseluruh Indonesia dengan cepat dan aman serta bergaransi</p>
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
           <div class="icon-box" data-aos="fade-up" >
             <div class="icon"><i class="icofont-earth"></i></div>
             <h4 class="title"><a href="">Konsultasi</a></h4>
-            <p class="description">Dengan membeli produk Customer akan mendapatkan pendampingan dan konsultasi online dari Team Agronomi</p>
+            <p class="description">Dengan membeli produk, Customer akan mendapatkan pendampingan dan konsultasi secara online dari Team PT. AGI</p>
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
           <div class="icon-box" data-aos="fade-up" >
-            <div class="icon"><i class="icofont-image"></i></div>
+            <div class="icon"><i class="icofont-settings"></i></div>
             <h4 class="title"><a href="">Hak Ekslusif Mitra</a></h4>
-            <p class="description">Mitra memiliki hak ekslusif dari perusahaan seperti penjualan produk brand Kilat di tingkat wilayah Desa atau Kecamatan</p>
+            <p class="description">Mitra memiliki hak Ekslusif dari Perusahaan seperti penjualan produk brand Kilat di tingkat wilayah Desa atau Kecamatan</p>
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
           <div class="icon-box" data-aos="fade-up">
             <div class="icon"><i class="icofont-settings"></i></div>
             <h4 class="title"><a href="">Hak Ekslusif Distributor</a></h4>
-            <p class="description">Distributor memiliki hak ekslusif penjualan produk brand Kilat di tingkat Kabupaten atau kota</p>
+            <p class="description">Distributor memiliki hak Ekslusif penjualan produk brand Kilat di tingkat Kabupaten atau Kota</p>
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
           <div class="icon-box" data-aos="fade-up">
-            <div class="icon"><i class="icofont-settings"></i></div>
+            <div class="icon"><i class="icofont-truck-loaded"></i></div>
             <h4 class="title"><a href="">Subsidi Ongkir</a></h4>
-            <p class="description">Untuk Mitra dan Distributor akan mendapatkan subsidi ongkir, bahkan bisa FREE Ongkir sesuai syarat dan kesepakatan dari perusahaan</p>
+            <p class="description">Untuk Mitra dan Distributor akan mendapatkan subsidi ongkir, bahkan bisa FREE Ongkir sesuai syarat dan kesepakatan dari Perusahaan</p>
           </div>
         </div>
       </div>
@@ -57,7 +57,7 @@
     <div id="about" class="about-area area-padding">
       <div class="container">
         <div class="section-title" data-aos="fade-up">
-          <h2>Pupuk & <strong>Nutrisi Cair</strong> Organik Kilat</h2>
+          <h2><strong>Pupuk & Nutrisi Cair</strong> Organik Kilat</h2>
         </div>
         <div class="row">
           <!-- single-well start-->
@@ -76,7 +76,7 @@
             <div class="well-middle">
               <div class="single-well">
                 <p>
-                  Merupakan produk dari PT. Agrikultur Gemilang Indonesia yang terbuat khusus untuk pertanian, peternakan, dan perikanan dengan kandungan horon terlengkap yang mengandung PH9, yang sangat baik untuk tanaman dan satu - satunya pupuk cair di Indonesia yang mengandung PH9. 
+                  Merupakan produk dari PT. Agrikultur Gemilang Indonesia yang dibuat khusus untuk pertanian, peternakan, dan perikanan dengan kandungan  hormon terlengkap dan bahan terbaik dari alam yang yang mampu meningkatkan hasil produksi panen untuk tanaman, ternak dan ikan
                 </p>
                 <p>Tentu saja, kualitas tersebut telah mendapatkan legalitas ijin edar produk dan uji lab dari :</p>
                 <ul>

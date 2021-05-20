@@ -6,7 +6,7 @@ $nav_product  = $this->home_model->nav_product();
   <section id="topbar" class="d-none d-lg-block">
     <div class="container d-flex">
       <div class="contact-info mr-auto">
-        <i class="icofont-envelope"></i><a href="mailto:contact@example.com">ptagiofficial@gmail.com</a>
+        <i class="icofont-envelope"></i><a href="mailto:contact@example.com">support@ptagi.co.id</a>
         <i class="icofont-phone"></i> +6281 335 005 334
       </div>
       <div class="social-links">
@@ -32,7 +32,7 @@ $nav_product  = $this->home_model->nav_product();
         <ul>
           <li><a href="<?php echo base_url('home') ?>">Home</a></li>
           <li><a href="<?php echo base_url('home/about') ?>">About</a></li>
-          <li class="drop-down"><a href="<?php echo base_url('home/produk_all') ?>">Produk</a>
+          <li class="drop-down"><a class="abs" href="<?php echo base_url('home/produk_all') ?>">Produk</a>
             <ul>
               <?php foreach ($nav_product as $nav_product) { ?>
               <li><a href="<?php echo base_url('home/product/'.$nav_product->id) ?>"><?php echo $nav_product->nama_produk ?></a></li>
@@ -40,14 +40,14 @@ $nav_product  = $this->home_model->nav_product();
             </ul>
           </li>
           <li><a href="<?php echo base_url('home/order') ?>">Order</a></li>
-          <li class="drop-down"><a href="">Pemasaran</a>
+          <li class="drop-down"><a href="#">Pemasaran</a>
             <ul>
               <li><a href="<?php echo base_url('home/mitra') ?>">Mitra</a></li>
               <li><a href="<?php echo base_url('home/distributor') ?>">Distributor</a></li>
             </ul>
           </li>
           <li><a href="<?php echo base_url('home/testimoni') ?>">Testimoni</a></li>
-          <li><a href="<?php echo base_url('home/publikasi') ?>">Publikasi</a></li>
+          <li><a href="<?php echo base_url('home/publikasi') ?>">Blog</a></li>
           <li><a href="<?php echo base_url('home/kontak') ?>">Kontak</a></li>
         </ul>
       </nav><!-- .nav-menu -->
