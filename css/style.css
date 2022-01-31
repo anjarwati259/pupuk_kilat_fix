@@ -1,0 +1,180 @@
+/*********************************
+Fonts Start
+*********************************/
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:100,300,400,700');
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,700i,800');
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i,900,900i');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:300i,400,400i,700');
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700,900');
+@font-face {
+	font-family: 'droidSans';
+	src: url('../webfonts/DroidSans-webfont.eot');
+	src: url('../webfonts/DroidSans-webfontd41d.eot?#iefix') format('embedded-opentype'), url('../webfonts/droidsans-webfont.woff2') format('woff2'), url('../webfonts/DroidSans-webfont.woff') format('woff'), url('../webfonts/DroidSans-webfont.ttf') format('truetype'), url('../webfonts/DroidSans-webfont.svg#droid_sansregular') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'droidSans';
+	src: url('../webfonts/DroidSans-Bold-webfont.eot');
+	src: url('../webfonts/DroidSans-Bold-webfontd41d.eot?#iefix') format('embedded-opentype'), url('../webfonts/droidsans-bold-webfont.woff2') format('woff2'), url('../webfonts/DroidSans-Bold-webfont.html') format('woff'), url('../webfonts/DroidSans-Bold-webfont-2.html') format('truetype'), url('../webfonts/DroidSans-Bold-webfont.svg#droid_sansbold') format('svg');
+	font-weight: 700;
+	font-style: normal;
+}
+/*********************************
+Fonts End
+*********************************/
+
+/*********************************
+Basic Styles
+*********************************/
+
+
+html body {
+	margin: 0px;
+	padding: 0px;
+	font-weight: 400;
+	font-family: 'Roboto', sans-serif;
+	color: #555555;
+}
+html body p, html body li {
+	font-family: 'Roboto', sans-serif;
+	color: #555555;
+}
+body a:hover {
+	text-decoration: none;
+}
+.wf100 {
+	width: 100%;
+	float: left;
+}
+.p100 {
+	padding: 100px 0;
+}
+.p80 {
+	padding: 80px 0;
+}
+.p80top {
+	padding: 80px 0 0;
+}
+.p80bottom {
+	padding: 0 0 80px;
+}
+body h1 {
+	font-size: 48px;
+}
+body h2 {
+	font-size: 40px;
+}
+body h3 {
+	font-size: 32px;
+}
+body h4 {
+	font-size: 28px;
+}
+body h5 {
+	font-size: 24px;
+}
+body h6 {
+	font-size: 20px;
+}
+.post-thumb img {
+	width: 100%;
+	height: auto;
+}
+body h1, body h2, body h3, body h4, body h5, body h6 {
+	font-family: 'Poppins', sans-serif;
+	color: #222;
+}
+.wrapper a:focus, .wrapper button:focus {
+	outline: none;
+	border: 0px;
+	box-shadow: none;
+}
+
+/*********************************
+Home Page
+*********************************/
+.home3 h2, .home3 h3, .home3 h4, .home3 h5, .home3 h6 {
+	font-family: 'Roboto Condensed', sans-serif;
+	letter-spacing: -1px;
+	font-weight: 700;
+}
+
+.home3 p, .home3 li {
+	font-family: 'Lato', sans-serif;
+}
+.header-style-3 .topbar {
+	background: #50AB34;
+	height: 40px;
+}
+.header-style-3 .topbar p {
+	font-family: 'Roboto Condensed', sans-serif;
+	color: #fff;
+	font-size: 16px;
+	margin: 0px;
+	line-height: 40px;
+}
+ul.topbar-social {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-align: right;
+}
+ul.topbar-social li {
+	display: inline-block;
+	margin-left: 20px;
+}
+.social-links a {
+	border: 1px solid #fff;
+	display: inline-block;
+	width: 24px;
+	height: 24px;
+	color: #fff;
+	border-radius: 100%;
+	text-align: center;
+	font-size: 12px;
+	line-height: 22px;
+}
+.social-links a:hover {
+	border-color: #20b1aa;
+	background: #20b1aa;
+	color: #fff;
+}
+.header-contact {
+	margin: 6px 0 0;
+	padding: 0px;
+	list-style: none;
+	text-align: center;
+}
+.header-contact li {
+	display: inline-block;
+	text-align: center;
+	margin: 0 20px;
+	color: #222;
+	font-size: 20px;
+	font-family: 'Roboto Condensed', sans-serif;
+	line-height: 44px;
+}
+.header-contact i{
+	color: #43952a;
+}
+.h3-logo-row {
+	width: 100%;
+	float: left;
+	padding: 20px 0;
+}
+a.con-btn {
+	float: right;
+	background: #43952a;
+	color: #fff;
+	text-transform: uppercase;
+	font-family: 'Roboto Condensed', sans-serif;
+	line-height: 44px;
+	font-weight: 600;
+	padding: 0 25px;
+	margin: 6px 0 0;
+}
+a.con-btn:hover {
+	background: #50AB34;
+	color: #fff;
+}
